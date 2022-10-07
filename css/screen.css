@@ -7,14 +7,13 @@ and (max-width: 720px) {
       text-align: center;
       height: 100%;
       width: 80%;
-      position: center;
   }
 }
 
 html, body {
   height: 100%;
   width: 100%;
-  margin: 5;
+  margin: 5px;
 }
 
 body {
